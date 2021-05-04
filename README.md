@@ -7,6 +7,7 @@ Polkavisor token (PVS) smart contract implementation.
 ```console
 $ npm install --save-dev truffle
 $ npm install --save-dev @openzeppelin/contracts
+$ npm install --save-dev @truffle/hdwallet-provider
 ```
 
 ## Compile
